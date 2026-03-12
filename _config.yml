@@ -9,7 +9,7 @@ permalink:        pretty
 title:            'The OSCAR Book Companion: Code & Errata'
 description:      'OSCAR, an Open Source Computer Algebra Research System written in Julia'
 url:              https://oscar-system.github.io
-baseurl:          /oscar-book
+baseurl:          /book.oscar-system.org
 
 plugins:
   - jekyll-seo-tag
