@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Gröbner Bases for Polynomial Ideals and Applications
+
 ---
 
 ## Authors: Christian Eder, Rafael Mohr and Mohab Safey El Din

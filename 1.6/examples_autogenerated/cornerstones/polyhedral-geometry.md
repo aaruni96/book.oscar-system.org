@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Polyhedral Geometry
+
 ---
 
 ## Authors: Taylor Brysiewicz and Michael Joswig

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Faithful Tropicalization of Hyperelliptic Curves
+
 ---
 
 ## Authors: Hannah Markwig, Lukas Ristau and Victoria Schleis

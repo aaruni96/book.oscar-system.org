@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Group Theory
+
 ---
 
 ## Authors: Max Horn and Claus Fieker

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Toric Geometry
+
 ---
 
 ## Authors: Martin Bies and Lars Kastner

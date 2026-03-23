@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Monomial Bases in Lie Theory
+
 ---
 
 ## Authors: Xin Fang and Ghislain Fourier

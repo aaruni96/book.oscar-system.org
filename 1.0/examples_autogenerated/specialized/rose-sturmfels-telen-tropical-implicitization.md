@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tropical Implicitization Revisited
+
 ---
 
 ## Authors: Kemal Rose, Bernd Sturmfels and Simon Telen

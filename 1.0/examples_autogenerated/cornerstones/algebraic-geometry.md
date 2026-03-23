@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Commutative Algebra and Algebraic Geometry
+
 ---
 
 ## Authors: Janko Böhm, Wolfram Decker and Frank-Olaf Schreyer

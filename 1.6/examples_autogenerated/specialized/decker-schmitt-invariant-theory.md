@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Invariant Theory
+
 ---
 
 ## Authors: Wolfram Decker, Lakshmi Ramesh and Johannes Schmitt

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: An Atlas of Orthogonal Representations
+
 ---
 
 ## Authors: Thomas Breuer, Gabriele Nebe and Richard Parker

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Elliptic Fibrations on Vinberg’s Most Algebraic K3 Surface
+
 ---
 
 ## Authors: Simon Brandhorst and Matthias Zach
